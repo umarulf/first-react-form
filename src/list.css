@@ -1,0 +1,7 @@
+.payment-wrapper{
+    border: 3 px solid black;
+    background: grey;
+    color: black;
+    margin: 2px;
+    width: 260px;
+}
